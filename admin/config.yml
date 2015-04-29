@@ -1,4 +1,4 @@
-repo: netlify/netlify-home
+repo: netlifydemo/netlify-home
 branch: master
 collections:
   - slug: "post"
