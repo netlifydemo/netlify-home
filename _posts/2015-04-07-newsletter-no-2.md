@@ -1,16 +1,20 @@
 ---
-title: "Netlify - Newsletter no. 2"
-short_title: "Our Second Newsletter"
+title: Netlify - The Second Newsletter
 author: Christian Bach
-description: Netlify is live, we made front page of Hacker News and welcome to the Static Web-Tech SF Meetup
+image: /img/posts/netlify.png
+short_title: Our Second Newsletter
+description: "Netlify is live, we made front page of Hacker News and welcome to the Static Web-Tech SF Meetup"
 thumbnail: /img/posts/thumbnails/newsletter.png
-tags: ["Netlify", "Newsletter"]
+tags:
+  - Netlify
+  - Newsletter
 ---
 
 ### Welcome.
 
 A lot of things have happened since our last newsletter.
 
+![logo-new-wide.png](/uploads/logo-new-wide.png)
 
 ### Netlify
 
@@ -31,6 +35,10 @@ On a more personal note Chris (co-founder) is now no longer with his Danish agen
 
 **Future**
 We are currently working on some things at that we are really excited about introducing to everyone. Please let us know of any features you would like. We can be contacted in any number of ways.
+
+## The free, online global conference for all things Jekyll
+
+Best Practices | Advanced Case Studies | The Future of Jekyll
 
 
 ### Static web-tech
